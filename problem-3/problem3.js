@@ -10,7 +10,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 Solution by Tom Tillistrand
 
-Solved for 13892 instead of 600851475143.
+Solved for 13892 instead of 600851475143 because browser cannot handle larger number.
 
 */
 
