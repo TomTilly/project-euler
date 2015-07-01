@@ -1,6 +1,6 @@
 # Project Euler
 
-This repository contains a series of solutions to problems from A [Project Euler](www.projecteuler.com), written in JavaScript.
+This repository contains a series of solutions to problems from [Project Euler](www.projecteuler.com), written in JavaScript.
 
 # About Project Euler
 
