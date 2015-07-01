@@ -14,6 +14,6 @@ The code to solve each problem must be pasted into the JavaScript console of you
 
 # Credits
 
-Problems sourced from Project Euler: https://projecteuler.net/about
+Problems sourced from Project Euler: https://projecteuler.net/archives
 
 Solutions by Tom Tillistrand
