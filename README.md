@@ -1,6 +1,6 @@
 # Project Euler
 
-This repository contains a series of solutions to problems from Project Euler, written in JavaScript.
+This repository contains a series of solutions to problems from A [Project Euler](www.projecteuler.com), written in JavaScript.
 
 # About Project Euler
 
@@ -15,4 +15,5 @@ The code to solve each problem must be pasted into the JavaScript console of you
 # Credits
 
 Problems sourced from Project Euler: https://projecteuler.net/about
+
 Solutions by Tom Tillistrand
