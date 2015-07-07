@@ -19,7 +19,7 @@ var x = 1,
 	total = 0,
 	tempVar;
 
-for(var i = 0; y < 4000000; i++){
+for(var i = 0; x < 4000000; i++){
 	
 	if(x % 2 === 0){
 		total += x;
